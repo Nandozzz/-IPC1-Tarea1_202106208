@@ -1,0 +1,42 @@
+<html>
+<head>
+    <title>Dwigt Fernando Gabriel Chinchilla Hernandez, 202106208</title>
+</head>
+
+<body>
+    <h1>Dwigt Fernando Gabriel Chinhilla Hernandez, Carnet: 202106208</h1>
+    <h2>IPC1 Sección B</h2>
+
+    <table border="2">
+        <tr>
+            <td>NOMBRE DEL CURSO</td> <td>SEMESTRE</td>
+        </tr>
+        <tr>
+            <td>Lógica de sistemas</td> <td>3er Semestre</td>
+        </tr>
+        <tr>
+            <td>Física 1</td> <td>3er Semestre</td>
+        </tr>
+        <tr>
+            <td>Laboratorio de Física 1</td> <td>3er Semestre</td>
+        </tr>
+        <tr>
+            <td>Matemática para computación 1</td> <td>3er Semestre</td>
+        </tr>
+        <tr>
+            <td>Introducción a la programación y computación 1</td> <td>3er Semestre</td>
+        </tr>
+        <tr>
+            <td>Matemática Intermedia 3</td> <td>4to Semestre</td>
+        </tr>
+        <tr>
+            <td>Matemática intermedia 2</td> <td>4to Semestre</td>
+        </tr>
+        <tr>
+            <td>Laboratorio de introducción a la programación y computación 1</td> <td>3er Semestre</td>
+        </tr>
+
+    </table>
+
+</body>
+</html>
